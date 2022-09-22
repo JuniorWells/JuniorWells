@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning **ASP.NET framework**
+- 🌱 I’m currently learning **Rust**
 
 
 <p align="left">
