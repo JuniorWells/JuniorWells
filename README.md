@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
+<code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/large/rust-logo.png"></code>
 <code><img height="30" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.png"></code>
 <code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg"></code>
 <code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg"></code>
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorWells&layout=compact&theme=merko" alt="JuniorWells" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JuniorWells&theme=merko&show_icons=true" alt="JuniorWells" /></p>
@@ -42,3 +43,4 @@ Here are some ideas to get you started:
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuniorWells&theme=highcontrast)](https://git.io/streak-stats)
+-->
