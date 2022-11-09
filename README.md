@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning about **microservices**
 
 
 <p align="left">
