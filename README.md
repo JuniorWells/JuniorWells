@@ -27,9 +27,6 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<h3 align="left">📫 Connect with me:</h3>
-<a href="https://www.linkedin.com/in/kostas-chaniotakis/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kostas chaniotakis" height="30" width="40" /></a>
-</p>
 
 
 <!--
